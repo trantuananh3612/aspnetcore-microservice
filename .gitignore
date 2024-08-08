@@ -1,0 +1,66 @@
+# Build Folders (Bin, Obj, etc)
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]eports/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.vsp
+*.pdb
+*.opendb
+*.opensdf
+*.ncrunchproject
+*.ncrunchsolution
+
+# Visual Studio specific files
+.vscode/
+.vs/
+.vscode/
+*.vspscc
+*.vssscc
+.idea/
+_ReSharper*/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+*.edmx
+*.jfm
+*.publishsettings
+
+# Others
+*.config
+*.dbmdl
+*.cache
+*.sdf
+*.ldf
+*.mdf
+
+# Azure DevOps
+# Exclude Project User Settings files (.user)
+projectname.csproj.user
+
+# Other files and folders
+*.pyc
+*.class
+*.log
+*.mdb
+*.pdb
+*.dll
+*.exe
+*.cache
+*.rar
+*.zip
+*.tar.gz
+*.7z
